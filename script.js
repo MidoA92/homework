@@ -1,0 +1,1 @@
+let niz= ['racunar', 'tastatura', 'mis'];

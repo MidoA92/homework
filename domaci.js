@@ -1,5 +1,3 @@
-// homework 3
-
 let name= 'admin';
 let password= 'tajnasifra';
 

@@ -13,7 +13,7 @@ if(name== 'admin'&& password=='tajnasifra'){
 }
 
 
-// vjezba 3
+// exercise 3
  let years = 30;
 
  if(years<=18){
@@ -39,4 +39,18 @@ if(name== 'admin'&& password=='tajnasifra'){
     console.log('banana');
  } else{
     console.log('Some other fruit');
+ };
+
+ // homework 4
+
+ const dayOfTheWeek = 'monday';
+
+ switch(dayOfTheWeek){
+   case 'saturday' || 'sunday':
+      console.log('Weekend');
+      break;
+   case 'friday':
+      console.log('Weekend is coming');
+   case 'monday' || 'tuesday' || 'wednesday' || 'thursday':
+      console.log('Work, work, work....')
  }
